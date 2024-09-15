@@ -1,0 +1,4 @@
+"id","numero_cartao","limite","funcionario_id","validade","bandeira"
+2,"7984","4000.00",NULL,"2030-07-03","mastercard"
+3,"9874","4000.00",NULL,"2030-07-03","mastercard"
+4,"8794","4000.00",NULL,"2030-07-03","mastercard"
